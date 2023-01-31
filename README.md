@@ -1,4 +1,6 @@
-# Lab-5
+# Lab-5 Edge Collapse
+
+![Cmake](https://www.uni-weimar.de/~bexo5814/rrII/images/bunny.gif)
 
 Installation on Windows:
 ========================
